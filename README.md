@@ -1,1 +1,0 @@
-# acunmedyakademi-conda-python
