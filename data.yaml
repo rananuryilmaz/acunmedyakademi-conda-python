@@ -1,0 +1,7 @@
+path: C:\Users\Rana\OneDrive\Desktop\Python\a-conda\mayıs2\dataset
+train: images
+val: images
+
+nc: 1
+names:
+  0: plaka
